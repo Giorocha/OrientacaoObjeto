@@ -1,0 +1,22 @@
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.deps.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.runtimeconfig.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.runtimeconfig.dev.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.dll
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.pdb
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.csprojAssemblyReference.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.AssemblyInfoInputs.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.AssemblyInfo.cs
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.dll
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria (2)\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.pdb
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.deps.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.runtimeconfig.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.runtimeconfig.dev.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.dll
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\bin\Debug\netcoreapp2.1\DesafioPizzaria.pdb
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.csprojAssemblyReference.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.AssemblyInfoInputs.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.AssemblyInfo.cs
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.dll
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\DesafioPizzaria\obj\Debug\netcoreapp2.1\DesafioPizzaria.pdb

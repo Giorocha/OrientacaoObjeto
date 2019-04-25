@@ -216,6 +216,7 @@
       "type": "package",
       "path": "microsoft.netcore.app/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "Microsoft.NETCore.App.versions.txt",
@@ -481,6 +482,7 @@
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -494,6 +496,7 @@
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -507,6 +510,7 @@
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -536,6 +540,7 @@
       "type": "package",
       "path": "microsoft.netcore.targets/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -552,6 +557,7 @@
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -687,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\43706052881\\Documents\\Aulas C#\\OO\\OrientacaoObjeto\\Ex1\\Ex1.csproj",
-      "projectName": "Ex1",
-      "projectPath": "c:\\Users\\43706052881\\Documents\\Aulas C#\\OO\\OrientacaoObjeto\\Ex1\\Ex1.csproj",
+      "projectUniqueName": "C:\\Users\\43706052881\\Documents\\Aulas C#\\OO\\OrientacaoObjeto\\Senaizinho_2_Tarde\\Senaizinho_2_Tarde.csproj",
+      "projectName": "Senaizinho_2_Tarde",
+      "projectPath": "C:\\Users\\43706052881\\Documents\\Aulas C#\\OO\\OrientacaoObjeto\\Senaizinho_2_Tarde\\Senaizinho_2_Tarde.csproj",
       "packagesPath": "C:\\Users\\43706052881\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\43706052881\\Documents\\Aulas C#\\OO\\OrientacaoObjeto\\Ex1\\obj\\",
+      "outputPath": "C:\\Users\\43706052881\\Documents\\Aulas C#\\OO\\OrientacaoObjeto\\Senaizinho_2_Tarde\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
