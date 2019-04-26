@@ -1,0 +1,4 @@
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.csprojAssemblyReference.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.csproj.CoreCompileInputs.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.AssemblyInfoInputs.cache
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.AssemblyInfo.cs
