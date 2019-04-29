@@ -2,3 +2,10 @@ C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\
 C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.csproj.CoreCompileInputs.cache
 C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.AssemblyInfoInputs.cache
 C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.AssemblyInfo.cs
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.deps.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.runtimeconfig.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.runtimeconfig.dev.json
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.dll
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\bin\Debug\netcoreapp2.1\PastelStore.MVC.pdb
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.dll
+C:\Users\43706052881\Documents\Aulas C#\OO\OrientacaoObjeto\PastelStore.MVC\obj\Debug\netcoreapp2.1\PastelStore.MVC.pdb
